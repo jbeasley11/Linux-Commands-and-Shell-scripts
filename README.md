@@ -1,2 +1,17 @@
 # Linux-Commands-and-Shell-scripts
 Linux Commands and Shell scripts
+![12-Create_Backup](https://github.com/user-attachments/assets/06870ff4-cece-4a84-85ba-2c1a4b69e82a)
+![11-Add_File](https://github.com/user-attachments/assets/ebbce927-b53a-481d-a5d6-2aea408146fc)
+![10-IF_Statement](https://github.com/user-attachments/assets/888d570d-869c-49bb-bf4a-ecb69c359b65)
+![09-List_AllFilesandDirectories](https://github.com/user-attachments/assets/6dfef284-eb22-44fd-82b0-3a8a3fbf1c66)
+![08-YesterdayTS](https://github.com/user-attachments/assets/fb985f96-944b-4237-94b9-0957eba0afae)
+![07-Change_Directory](https://github.com/user-attachments/assets/25c7d87f-abd7-41fb-b3d8-2be1145321c4)
+![06-Define_Variable](https://github.com/user-attachments/assets/7642a91c-f5d9-4b03-80bc-f5479bc2058f)
+![05-Define_Variable jpb](https://github.com/user-attachments/assets/df252fb2-7906-4756-bdcb-d071cc49bc56)
+![04-Set_Value](https://github.com/user-attachments/assets/24b51cdb-0061-4028-a298-aba81e951750)
+![03-CurrentTS](https://github.com/user-attachments/assets/2db5d544-e577-4771-8787-753fb7326b78)
+![02-Display_Values](https://github.com/user-attachments/assets/dcb41513-8ead-4c1c-a8bf-c7122cc5aff6)
+![01-Set_Variables](https://github.com/user-attachments/assets/a1621ccb-9241-41a9-a067-f0049a1d6c92)
+![17-crontab jpg](https://github.com/user-attachments/assets/823dba4a-3d70-4e8c-814d-be6c4818d38c)
+![15-executable](https://github.com/user-attachments/assets/a47b6c14-49b4-4a67-82a3-e7db6df31ddc)
+![13-Move_Backup](https://github.com/user-attachments/assets/30acd4c2-9897-4d89-84b2-d0e234f294f1)
